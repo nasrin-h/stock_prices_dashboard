@@ -1,4 +1,4 @@
 # stock_prices_dashboard
 
-![image](https://github.com/nasrin-h/stock_prices_dashboard/assets/136613366/9810228d-eaf8-4f6e-8796-e3e79ee523c6)
+![image](https://github.com/nasrin-h/stock_prices_dashboard/assets/136613366/86602856-04ea-4fb3-adb7-3bc43ef5012e)
 
