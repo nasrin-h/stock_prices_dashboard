@@ -1,6 +1,7 @@
 # stock_prices_dashboard
 
-![image](https://github.com/nasrin-h/stock_prices_dashboard/assets/136613366/86602856-04ea-4fb3-adb7-3bc43ef5012e)
+![image](https://github.com/nasrin-h/stock_prices_dashboard/assets/136613366/29d4a63d-b741-4e59-b568-05482a161099)
+
 
 ### Data Information 
 * Data: Stock market information dated between 2000 - Present. Source: Kaggle.com
